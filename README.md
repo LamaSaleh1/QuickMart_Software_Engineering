@@ -20,7 +20,7 @@ In addition to project management, I was specifically responsible for:
 * **Ethics & Responsibility:** Applied ACM/IEEE Software Engineering Code of Ethics to the system design.
 
 ## 📂 Deliverables
-* **[Full Technical Report](./QuickMart_Software_Engineering_Report.pdf):** A 30-page document covering SRS, SDD, and Project Management.
+* **[Project Report](./CS383_Project_Report.pdf):** A 30-page document covering SRS, SDD, and Project Management.
 
 ---
 *Note: Private information and student IDs have been removed from the documentation for privacy.*
